@@ -45,7 +45,7 @@ You can import this tool directly using Unity Package Manager.
 4. Select **“Add package from git URL…”**
 5. Paste your repository URL:
 ```
-https://github.com/kanbarudesu/Sidekick-Inspector
+https://github.com/kanbarudesu/Sidekick-Inspector.git
 ```
 
 ## 🎯 Use Cases
